@@ -4,12 +4,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ekagra_shukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ekagra_shukla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ekagrashukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ekagrashukla" height="30" width="40" /></a>
-<a href="https://fb.com/ekagrashukla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ekagrashukla" height="30" width="40" /></a>
-<a href="https://instagram.com/shuklaekagra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shuklaekagra" height="30" width="40" /></a>
+<a href="https://twitter.com/ekagra_shukla" target="blank"><img src="https://img.icons8.com/fluent/50/000000/twitter.png" alt="ekagra_shukla" /></a>
+<a href="https://linkedin.com/in/ekagrashukla" target="blank"><img src="https://img.icons8.com/color/50/000000/linkedin.png" alt="ekagrashukla"/></a>
+<a href="https://fb.com/ekagrashukla" target="blank"><img src="https://img.icons8.com/fluent/50/000000/facebook-new.png" alt="ekagrashukla"/></a>
+<a href="https://instagram.com/shuklaekagra" target="blank"><img src="https://img.icons8.com/fluent/50/000000/instagram-new.png" alt="shuklaekagra"/></a>
+<a href="https://youtube.com/maliciousyunk" target="blank"><img src="https://img.icons8.com/color/50/000000/youtube-play.png" alt="maliciousyunk"/></a>
 </p>
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
