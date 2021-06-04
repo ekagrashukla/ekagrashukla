@@ -37,7 +37,8 @@
   <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>  
   <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/after-effects-cc-logo-png-transparent.png" alt="ae" width="40" height="40"/> </a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.dogsbody.com/wp-content/uploads/PHP_Logo-180x180.png" alt="php" width="40" height="40"/> </a>
-   <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> <img src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" alt="flask" width="40" height="40"/> </a>
+   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" alt="flask" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="40" height="40"/> </a>
 <br>
 
 <br>
