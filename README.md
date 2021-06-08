@@ -39,6 +39,7 @@
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.dogsbody.com/wp-content/uploads/PHP_Logo-180x180.png" alt="php" width="40" height="40"/> </a>
    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png" alt="flask" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/452/firebase.png" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://svelte.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="svelte" width="40" height="40"/> </a>
 <br>
 
 <br>
