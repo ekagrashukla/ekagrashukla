@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ekagra Shukla
+# Hello, folks!, I'm Ekagra Shukla
 <h3 align="center">A passionate Web & App developer from India</h3>
 <h4 align="center"> I am a pre final CS Engineering student. I am self taught Full Stack Web developer, React Native App Developer and an ML enthusiast, I love to code and contribute to Open Source.</h3>
 
